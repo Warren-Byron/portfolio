@@ -1,4 +1,4 @@
-# 🧠 Warren Byron – Solution Architect Portfolio
+# Warren Byron – Solution Architect Portfolio
 
 Welcome to my portfolio of selected technical projects, spanning cloud-native architecture, data platforms, ERP transformation, IoT, and blockchain. With 20+ years of experience and a strong foundation in open-source technologies, I’ve delivered solutions across diverse sectors—from retail and finance to manufacturing, government, and R&D.
 
