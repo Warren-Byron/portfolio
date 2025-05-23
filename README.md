@@ -105,10 +105,15 @@ Welcome to my portfolio of selected technical projects, spanning cloud-native ar
 Much of my work is hosted in **private GitHub organizations** due to client confidentiality. However, I’ve included several public examples primarily from my **MSc in Enterprise Software Systems (2020–2023)**.
 
 🧠 I achieved distinctions across key modules:
-- **Agile Development** – 100%
-- **Data Mining / AI** – 94%
-- **Web Architecture** – 92%
-- **Cloud Systems** – 90%
+
+- **Agile Software Development** – 100  
+- **Dissertation** – 100  
+- **User Experience Design** – 97  
+- **Data Mining** – 94  
+- **Enterprise Web Development** – 92  
+- **Cloud Architecture** – 90  
+- **Research Methods** – 91  
+- **Business Intelligence** – 77
 
 These repos include early cloud prototypes (e.g., CloudFormation) and newer tools I now favor (Terraform, Serverless Framework). While some dependencies may be outdated, they showcase key architecture patterns. I'm happy to demo a PoC on request.
 
@@ -131,10 +136,10 @@ These repos include early cloud prototypes (e.g., CloudFormation) and newer tool
 5. [**data-mining-2**](https://github.com/Warren-Byron/data-mining-2)  
    Exploratory classification and clustering models.
 
-6. **CloudFormation Projects** *(Private)*  
+6. [**Highly Available Architecture - CloudFormation**](https://video-for-assignment-1-cloud-architechture.s3.eu-west-1.amazonaws.com/video.mp4)
    High-availability AWS architectures for secure, fault-tolerant infrastructure deployments.
 
-7. **Serverless & Decoupled Architectures** *(Private)*  
+7. [**Serverless, Decoupled Solution**](Private)
    Real-world Lambda/SQS/SNS serverless designs with decoupled data processing pipelines.
 
 ---
